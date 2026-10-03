@@ -1,0 +1,2 @@
+# libresprite-desktop
+Libresprite Desktop is a Windows utility. A local helper for Libresprite data folders, config and export files, and photo albums on Windows and macOS.
